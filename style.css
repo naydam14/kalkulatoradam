@@ -54,7 +54,10 @@ body {
 }
 
 .clear {
-    grid-column: span 4;
+    grid-column: span 2;
     background-color: #e53935;
-    width: 100%;
+}
+.delete {
+    grid-column: span 2;
+    background-color: #e53935;
 }
